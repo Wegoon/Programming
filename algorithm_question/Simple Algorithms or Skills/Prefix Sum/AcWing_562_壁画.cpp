@@ -1,3 +1,16 @@
+/**
+ * @file AcWing_562_壁画.cpp
+ * @brief This is a reference code of [AcWing_562_壁画].
+ * It contains a solution to this problem.
+ * 
+ * @author Rookie
+ * @param email None
+ * @date 2024-04-08
+ */
+
+/**
+ * @param algorithm 前缀和
+ */
 #include <iostream>
 const int N = 5e6 + 5;
 int main() {
